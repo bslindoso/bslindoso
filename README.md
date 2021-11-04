@@ -19,4 +19,4 @@ Sou desenvolvedor Python / Django Júnior 💻. Super apaixonado pelo ramo da pr
 🌱 Aprendendo mais sobre Python e Django utilizando a plataforma [Alura Cursos](https://www.alura.com.br/)
 
 ### Contato
-📫 [E-mail](mailto:brunolindoso@gmail.com)    💜 [LinkedIn](https://www.linkedin.com/in/brunolindosodev/)
+📫 [Imgur](https://i.imgur.com/wQwejTm.png)[E-mail](mailto:brunolindoso@gmail.com)    💜 [LinkedIn](https://www.linkedin.com/in/brunolindosodev/)
