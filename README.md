@@ -21,4 +21,4 @@ Sou desenvolvedor Python / Django Júnior 💻. Super apaixonado pelo ramo da pr
 
 ### Contato
 <a href="mailto:brunolindoso@gmail.com"><img src="https://i.imgur.com/wQwejTm.png" width="32" height="32" /></a>
-<a href="https://www.linkedin.com/in/brunolindosodev/"><img src="https://i.imgur.com/ZBmclJI.png" width="32" height="32" /></a>
+<a href="https://www.linkedin.com/in/brunolindosodev/" target="_blank"><img src="https://i.imgur.com/ZBmclJI.png" width="32" height="32" /></a>
