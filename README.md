@@ -2,6 +2,7 @@
 
 <!--
 **bslindoso/bslindoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📫 [E-mail](mailto:brunolindoso@gmail.com)    💜 [LinkedIn](https://www.linkedin.com/in/brunolindosodev/)
 -->
 
 Sou desenvolvedor Python / Django Júnior 💻. Super apaixonado pelo ramo da programação e atualmente estudando cada vez mais!
@@ -19,4 +20,4 @@ Sou desenvolvedor Python / Django Júnior 💻. Super apaixonado pelo ramo da pr
 🌱 Aprendendo mais sobre Python e Django utilizando a plataforma [Alura Cursos](https://www.alura.com.br/)
 
 ### Contato
-📫 [Imgur](https://i.imgur.com/wQwejTm.png)[E-mail](mailto:brunolindoso@gmail.com)    💜 [LinkedIn](https://www.linkedin.com/in/brunolindosodev/)
+[![Gmail](https://i.imgur.com/wQwejTm.png)](mailto:brunolindoso@gmail.com)
