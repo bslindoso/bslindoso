@@ -1,14 +1,6 @@
 ## Hello World, I'm Bruno Lindoso 👋
 
-<!--
-**bslindoso/bslindoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-📫 [E-mail](mailto:brunolindoso@gmail.com)    💜 [LinkedIn](https://www.linkedin.com/in/brunolindosodev/)
--->
-
 I'm a Python / Django Junior developer 💻. Super passionate about programming and currently studying more even more!
-
-
-
   
 ## Skills
 
@@ -30,15 +22,17 @@ I'm a Python / Django Junior developer 💻. Super passionate about programming 
 🎹 Classical Piano Student
 🌱 Learning more about technology using the [Alura Cursos](https://www.alura.com.br/) platform
 
-## Contatos
+## Contact
  <div>   
   <a href = "mailto:brunolindoso@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"" target="_blank"></a>
  <a href="https://www.linkedin.com/in/brunolindosodev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <br> <br>
-   
+</div>
+    
+## More info
+ 
 <!-- Painel de Trabalhos -->
 <div>
  <a href="https://github.com/bslindoso">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bslindoso&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bslindoso&layout=compact&langs_count=7&theme=dark"/>
+ <img height="170em" src="https://github-readme-stats.vercel.app/api?username=bslindoso&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+ <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bslindoso&layout=compact&langs_count=7&theme=dark"/>
 </div>
