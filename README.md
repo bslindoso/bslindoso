@@ -18,8 +18,8 @@ I'm a Python / Django Junior developer 💻. Super passionate about programming 
 💬 IBM Watson
 
 ## About me
-😊 I always enjoy technology, I'm a gamer 🎮 and I love watching movies and series in general!
-🎹 Classical Piano Student
+😊 I always enjoy technology, I'm a gamer 🎮 and I love watching movies and series in general! <br>
+🎹 Classical Piano Student <br>
 🌱 Learning more about technology using the [Alura Cursos](https://www.alura.com.br/) platform
 
 ## Contact
