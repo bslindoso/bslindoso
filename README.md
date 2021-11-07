@@ -15,7 +15,7 @@ I'm a Python / Django Junior developer 💻. Super passionate about programming 
 
 ### Chatbot Development
 💬 Weni / RapidPro technology <br>
-💬 IMB Watson
+💬 IBM Watson
 
 ## About me
 😊 I always enjoy technology, I'm a gamer 🎮 and I love watching movies and series in general!
