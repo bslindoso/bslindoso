@@ -14,8 +14,8 @@ I'm a Python / Django Junior developer 💻. Super passionate about programming 
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="32" />      <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="32" />
 
 ### Chatbot Development
-💬 Weni / RapidPro technology <br>
-💬 IBM Watson
+💬 Take Blip <br>
+💬 Weni Platform
 
 ## About me
 😊 I always enjoy technology, I'm a gamer 🎮 and I love watching movies and series in general! <br>
