@@ -1,21 +1,21 @@
 ## Hello World, I'm Bruno Lindoso 👋
 
-I'm a Python / Django Junior developer 💻. Super passionate about programming and currently studying more even more!
+I'm a Chatbot Developer 💻. Super passionate about programming and currently studying more even more!
   
 ## Skills
 
-### Back-end
-<img  align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="32" />         <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" width="50" />         <img align="center" alt="API REST" src="https://imgur.com/FTeNrPl.png" width="70" />
+### Chatbot Development
+<a href="https://www.take.net/"><img  align="center" src="https://yt3.ggpht.com/ytc/AMLnZu9UIS-8Qdqk8RZ5IYnDKRzxL9gq-DQrb_NBZm5zDg=s900-c-k-c0x00ffffff-no-rj" width="40" height="40" alt="Take Blip" title="Take Blip"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.weni.ai/"><img  align="center" src="https://media-exp1.licdn.com/dms/image/C4D0BAQFsTd84ziAJgg/company-logo_200_200/0/1609792291772?e=1665619200&v=beta&t=NGNj6XfBnsOAOzp6-SKr6sEguFJqUurwOZvPBLK8nG8" width="40" height="40" alt="Weni Platform" title="Weni Platform"/></a>
 
 ### Front-end
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="32" />         <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="32" />         <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="40" height="32" />         <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40" height="32" />                  
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="32" />         <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="32" />         <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="40" height="32" />         <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40" height="32" />    
+
+### Back-end
+<img  align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="32" />         <img align="center" alt="API REST" src="https://imgur.com/FTeNrPl.png" width="70" />              
 
 ### Database
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="32" />      <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="32" />
-
-### Chatbot Development
-💬 Take Blip <br>
-💬 Weni Platform
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="32" />      <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="32" />          <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="32" />
 
 ## About me
 😊 I always enjoy technology, I'm a gamer 🎮 and I love watching movies and series in general! <br>
