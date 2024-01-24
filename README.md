@@ -20,7 +20,7 @@ I'm a Chatbot Developer 💻. Super passionate about programming and currently s
 ## About me
 😊 I always enjoy technology, I'm a gamer 🎮 and I love watching movies and series in general! <br>
 🎹 Classical Piano Student <br>
-🌱 Learning more about technology using the [Alura Cursos](https://www.alura.com.br/) platform
+🌱 Learning more about technology
 
 ## Contact
  <div>   
