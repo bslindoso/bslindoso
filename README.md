@@ -12,11 +12,13 @@ I'm a Chatbot Developer 💻. Super passionate about programming and currently s
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="32" />         <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="32" />         <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="40" height="32" />         <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40" height="32" />    
 
 ### Back-end
-<img  align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="32" />         <img align="center" alt="API REST" src="https://imgur.com/FTeNrPl.png" width="70" />    <img  align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45" height="32" />          
+<!--<img  align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="32" /> -->         
+<img align="center" alt="API REST" src="https://imgur.com/FTeNrPl.png" width="70" />    <img  align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45" height="32" />          
 
+<!--
 ### Database
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="32" />      <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="32" />          <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="32" />
-
+-->
 ## About me
 😊 I always enjoy technology, I'm a gamer 🎮 and I love watching movies and series in general! <br>
 🎹 Classical Piano Student <br>
